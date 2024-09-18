@@ -2,4 +2,4 @@
 
 Tic Tac Toe Game.
 
-by Swapnil Swaraj Sinha
+by Rounak Dayal
